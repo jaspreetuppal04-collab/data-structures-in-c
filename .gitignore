@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Compiled executables
+prac_*
+
+# Generic compiled binaries
+*.out
+*.exe
